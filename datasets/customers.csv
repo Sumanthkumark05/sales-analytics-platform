@@ -1,0 +1,26 @@
+CustomerID,Name,Age,Gender,Region,City,AnnualIncome,SpendingScore,Membership,TotalOrders,AverageOrderValue,LastPurchaseDaysAgo
+C101,John Smith,25,Male,North,New York,40000,65,Silver,12,320,5
+C102,Sarah Johnson,35,Female,South,Texas,70000,80,Gold,25,540,2
+C103,Michael Brown,45,Male,East,Chicago,90000,55,Gold,18,620,10
+C104,Emily Davis,23,Female,West,California,30000,75,Silver,10,280,4
+C105,David Wilson,50,Male,North,Boston,120000,40,Platinum,40,980,1
+C106,Jessica Miller,28,Female,South,Miami,50000,70,Silver,15,410,7
+C107,Daniel Moore,32,Male,East,Atlanta,65000,68,Gold,20,470,3
+C108,Sophia Taylor,41,Female,West,Seattle,85000,50,Gold,22,600,9
+C109,James Anderson,29,Male,North,Denver,45000,78,Silver,14,350,6
+C110,Olivia Thomas,38,Female,South,Dallas,78000,62,Gold,27,520,2
+C111,Benjamin Jackson,47,Male,East,Detroit,95000,48,Platinum,35,860,12
+C112,Ava White,52,Female,West,San Diego,130000,35,Platinum,42,1100,1
+C113,William Harris,26,Male,North,New Jersey,42000,72,Silver,13,390,5
+C114,Isabella Martin,31,Female,South,Houston,61000,67,Gold,19,460,4
+C115,Lucas Thompson,36,Male,East,Philadelphia,72000,60,Gold,24,580,8
+C116,Mia Garcia,44,Female,West,Los Angeles,89000,52,Gold,26,640,6
+C117,Henry Martinez,55,Male,North,Chicago,150000,30,Platinum,50,1300,1
+C118,Evelyn Robinson,27,Female,South,Austin,47000,74,Silver,16,420,5
+C119,Alexander Clark,34,Male,East,Charlotte,69000,66,Gold,21,500,3
+C120,Harper Rodriguez,40,Female,West,San Francisco,81000,58,Gold,23,610,7
+C121,Matthew Lewis,48,Male,North,Washington,99000,45,Platinum,37,910,10
+C122,Abigail Lee,53,Female,South,Orlando,140000,33,Platinum,45,1200,2
+C123,Joseph Walker,24,Male,East,Indianapolis,35000,79,Silver,11,290,4
+C124,Ella Hall,30,Female,West,Portland,58000,69,Gold,17,450,5
+C125,Samuel Allen,37,Male,North,Phoenix,76000,61,Gold,28,560,6

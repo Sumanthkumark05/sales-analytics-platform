@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Sales Dashboard</title>
+
+    <style>
+
+        body {
+            font-family: Arial;
+            background: #f4f4f4;
+            padding: 40px;
+        }
+
+        .card {
+            background: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            width: 300px;
+            box-shadow: 0px 0px 10px gray;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <h1>Enterprise Sales Dashboard</h1>
+
+    <div class="card">
+
+        <h2>Total Sales</h2>
+
+        <p>{{ data.total_sales }}</p>
+
+    </div>
+
+    <div class="card">
+
+        <h2>Revenue Forecast</h2>
+
+        <p>{{ data.forecast }}</p>
+
+    </div>
+
+</body>
+
+</html>
