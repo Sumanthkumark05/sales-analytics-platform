@@ -168,28 +168,6 @@ The forecasting module analyzes historical sales data and predicts future busine
 
 ---
 
-# 📸 Screenshots
-
-## Dashboard Overview
-The main dashboard provides a quick overview of important business insights including total sales, revenue, profit, and KPI metrics through interactive charts and graphs.
-
-![Dashboard](https://raw.githubusercontent.com/Sumanthkumark05/sales-analytics-platform/main/screenshots/dashboard.png)
-
----
-
-## Sales Analysis
-This section displays detailed sales analytics such as product performance, category-wise revenue, customer trends, and regional sales distribution.
-
-![Sales Analysis](https://raw.githubusercontent.com/Sumanthkumark05/sales-analytics-platform/main/screenshots/sales_analysis.png)
-
----
-
-## Forecasting Module
-The forecasting dashboard predicts future sales trends using machine learning models and historical sales data visualization.
-
-![Forecasting](https://raw.githubusercontent.com/Sumanthkumark05/sales-analytics-platform/main/screenshots/forecasting.png)
-
----
 
 # ⚙️ Installation & Setup
 
